@@ -17,7 +17,13 @@ I design systems that have to keep running after the demo, and I have been on bo
 
 **Research underneath it.** A master's on a micromachined pressure sensor at **LAAS-CNRS**, a doctorate at **DESY**, then work with **CERN**, **Cornell**, **INFN** and **CEA–IN2P3**. Patents and papers on data and video processing.
 
+**And the part that is not code.** I assess R&D projects as an expert for **NCBR** (Poland's National Centre for Research and Development) and **COP**, among others — which means reading proposals for whether the technology is real, whether the plan survives contact with a budget, and whether the regulations allow what is being promised. Work for **Samsung Poland** and as an expert with **Google** sits in the same category: technical judgement where the consequences are commercial rather than only architectural.
+
+It is a useful thing to have on the other side of the table. If you are preparing a funded R&D project, I can usually tell you early where the application will fail — which is cheaper to hear before you write it.
+
 `embedded` · `IoT` · `mobile` — Flutter/Dart, Kotlin · `cloud` — GCP · `AI` — agents, RAG, applied ML · `backend` — Go, Python, Java, microservices
+
+> **On this profile's activity graph.** Since 2011 my work has run in parallel on company GitLab — Open-RnD, Smart Soft Solutions, Lark AI and others — so most of fifteen years is not on GitHub and never will be. What is here is recent, and largely private because it belongs to students until they say otherwise.
 
 ---
 
@@ -29,6 +35,7 @@ I am open to a limited number of engagements at a time, usually one of these:
 - **Technical advisory** for a product team, ongoing or by the sprint. Most useful where hardware, cloud and AI meet, because that is where responsibility for a failure gets ambiguous.
 - **Building something from zero**, with a team assembled around it. This is what I do at the university and it works the same way commercially.
 - **Research collaboration** with the university — projects, grants, joint supervision of engineers who then know your codebase.
+- **Assessment of an R&D project** before it goes to a funding body, or a second opinion on one you have been asked to fund.
 
 **[sekalski@p.lodz.pl](mailto:sekalski@p.lodz.pl)** · **[LinkedIn](https://www.linkedin.com/in/sekalski/)** · **[inn4u.pl](https://inn4u.pl)**
 
