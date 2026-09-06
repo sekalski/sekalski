@@ -26,6 +26,21 @@ I have supervised close to **300 diploma projects**, and the rule for every one 
 
 ---
 
+### Some things worth looking at
+
+Most of what I supervise is private, because it is somebody's diploma project until they decide otherwise. These are public, and they are **their** work — I supervised, argued about architecture, and occasionally said "no, do it again".
+
+| | |
+|---|---|
+| [**ŻAK Streamer**](https://github.com/radio-zak/mobile-streamer) | Flutter app for the student radio at Lodz University of Technology. Android and iOS, `just_audio` and `audio_service`, and it is actually maintained. |
+| [**Vibez**](https://github.com/SzymonGieraga/Vibez) | A social platform for short musical clips — record, publish, discover. Worth opening for the architecture section rather than the feature list. |
+| [**Vrooom**](https://github.com/kuba122388/Vrooom) | Cross-platform vehicle rental system, built as a group project. Separate roles for renters and operators, which is where these projects usually fall over. |
+| [**Moodle agent system**](https://github.com/251231/System_agentowy_Moodle) | Agents operating against a Moodle instance. Python. |
+
+And one that is not mine or a student's, but is worth your time: [**Eskadra Bielik — Misja 2**](https://github.com/avedave/eskadra-bielik-misja2), a RAG system built on the Polish **Bielik** model and Google Cloud. Sovereign AI that runs on documents you actually own, which is a more interesting problem than most people admit.
+
+---
+
 ### Teaching
 
 I teach a course and a four-hour workshop on building with AI agents — how the loop works, why a written specification outlives a chat log, and what happens when an agent reads a file somebody else wrote. Materials are shared with participants each run.
